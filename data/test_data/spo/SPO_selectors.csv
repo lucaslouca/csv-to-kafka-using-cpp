@@ -1,0 +1,126 @@
+Source,Relationship,Target
+Don Vito,Email,donvito@example.com
+Don Vito,Phone,+1-262-245-7901
+Don Vito,Facebook ID,facebook.com/3615717
+Don Vito,Address,"215 Main St, City, Country"
+Don Vito,UUID,05d5903f-7848-4d86-9091-711b788f8de0
+Consigliere Carlo,Email,consiglierecarlo@example.com
+Consigliere Carlo,Phone,+1-644-303-2486
+Consigliere Carlo,Facebook ID,facebook.com/4780088
+Consigliere Carlo,Address,"689 Elm St, City, Country"
+Consigliere Carlo,UUID,cd1b903b-646b-4840-8062-9ec606678a98
+Underboss Marco,Email,underbossmarco@example.com
+Underboss Marco,Phone,+1-274-190-5207
+Underboss Marco,Facebook ID,facebook.com/9573209
+Underboss Marco,Address,"165 Elm St, City, Country"
+Underboss Marco,UUID,a40c3a01-0ea1-4d16-b9af-5fcc511736d3
+Underboss Maria,Email,underbossmaria@example.com
+Underboss Maria,Phone,+1-889-162-2814
+Underboss Maria,Facebook ID,facebook.com/2160892
+Underboss Maria,Address,"411 Elm St, City, Country"
+Underboss Maria,UUID,7b9e10b8-e712-435d-a872-e2f6f4652ac3
+Capo Salvatore,Email,caposalvatore@example.com
+Capo Salvatore,Phone,+1-410-783-7391
+Capo Salvatore,Facebook ID,facebook.com/2508570
+Capo Salvatore,Address,"381 Main St, City, Country"
+Capo Salvatore,UUID,2f393013-f8d8-4cae-9da2-c63f0a3d270b
+Capo Gianni,Email,capogianni@example.com
+Capo Gianni,Phone,+1-219-987-8366
+Capo Gianni,Facebook ID,facebook.com/7876315
+Capo Gianni,Address,"202 Pine Ave, City, Country"
+Capo Gianni,UUID,2d618236-0c30-4d0d-b730-420fa7a4c9ae
+Capo Rosa,Email,caporosa@example.com
+Capo Rosa,Phone,+1-604-774-8330
+Capo Rosa,Facebook ID,facebook.com/4020523
+Capo Rosa,Address,"879 Main St, City, Country"
+Capo Rosa,UUID,411a97ff-b298-48e5-96e9-d2342b151cc9
+Capo Angela,Email,capoangela@example.com
+Capo Angela,Phone,+1-306-996-8143
+Capo Angela,Facebook ID,facebook.com/9726343
+Capo Angela,Address,"751 Oak Rd, City, Country"
+Capo Angela,UUID,5a9d59b7-75a2-4a38-b087-101189d1793e
+Soldier Luca,Email,soldierluca@example.com
+Soldier Luca,Phone,+1-790-529-6071
+Soldier Luca,Facebook ID,facebook.com/7076029
+Soldier Luca,Address,"629 Pine Ave, City, Country"
+Soldier Luca,UUID,1d92ea0e-0e12-43d6-89b2-117f110947ed
+Soldier Enzo,Email,soldierenzo@example.com
+Soldier Enzo,Phone,+1-648-550-5597
+Soldier Enzo,Facebook ID,facebook.com/7109529
+Soldier Enzo,Address,"624 Pine Ave, City, Country"
+Soldier Enzo,UUID,5f42481d-6326-497e-bcf1-b18aade1ef19
+Soldier Paolo,Email,soldierpaolo@example.com
+Soldier Paolo,Phone,+1-365-815-8350
+Soldier Paolo,Facebook ID,facebook.com/2037326
+Soldier Paolo,Address,"872 Pine Ave, City, Country"
+Soldier Paolo,UUID,76fdac9d-1fec-4030-8ae5-f4839c54823e
+Soldier Nico,Email,soldiernico@example.com
+Soldier Nico,Phone,+1-220-471-6293
+Soldier Nico,Facebook ID,facebook.com/8435188
+Soldier Nico,Address,"169 Main St, City, Country"
+Soldier Nico,UUID,10bc1998-46fb-4144-876c-4d1b419e5604
+Soldier Silvia,Email,soldiersilvia@example.com
+Soldier Silvia,Phone,+1-749-494-8529
+Soldier Silvia,Facebook ID,facebook.com/2353854
+Soldier Silvia,Address,"102 Elm St, City, Country"
+Soldier Silvia,UUID,84f398aa-19b9-4f52-8a7d-047676665590
+Soldier Marta,Email,soldiermarta@example.com
+Soldier Marta,Phone,+1-344-548-5551
+Soldier Marta,Facebook ID,facebook.com/4742177
+Soldier Marta,Address,"235 Elm St, City, Country"
+Soldier Marta,UUID,878dfb9d-4a2c-4a13-86c3-0b432346e915
+Soldier Claudia,Email,soldierclaudia@example.com
+Soldier Claudia,Phone,+1-252-614-8334
+Soldier Claudia,Facebook ID,facebook.com/9917853
+Soldier Claudia,Address,"239 Oak Rd, City, Country"
+Soldier Claudia,UUID,1e9cedab-85af-464f-8274-ce89d329ba51
+Soldier Bianca,Email,soldierbianca@example.com
+Soldier Bianca,Phone,+1-482-248-2180
+Soldier Bianca,Facebook ID,facebook.com/5111279
+Soldier Bianca,Address,"356 Pine Ave, City, Country"
+Soldier Bianca,UUID,551a2fb8-2f10-4067-a41b-cb1b744e399b
+Lieutenant Franco,Email,lieutenantfranco@example.com
+Lieutenant Franco,Phone,+1-267-904-1613
+Lieutenant Franco,Facebook ID,facebook.com/3019400
+Lieutenant Franco,Address,"554 Elm St, City, Country"
+Lieutenant Franco,UUID,c71e795c-120c-4227-88b6-0ff4fa1b463d
+Associate Mario,Email,associatemario@example.com
+Associate Mario,Phone,+1-176-594-2809
+Associate Mario,Facebook ID,facebook.com/6159672
+Associate Mario,Address,"797 Oak Rd, City, Country"
+Associate Mario,UUID,8d950af2-a96e-4b53-9388-add2ec896234
+Associate Luigi,Email,associateluigi@example.com
+Associate Luigi,Phone,+1-521-416-1678
+Associate Luigi,Facebook ID,facebook.com/7190289
+Associate Luigi,Address,"256 Oak Rd, City, Country"
+Associate Luigi,UUID,7ab3dd66-2735-42cb-9e53-807ae7c148d5
+Associate Sergio,Email,associatesergio@example.com
+Associate Sergio,Phone,+1-471-290-3891
+Associate Sergio,Facebook ID,facebook.com/2324909
+Associate Sergio,Address,"495 Elm St, City, Country"
+Associate Sergio,UUID,37427bc6-0f81-4ac3-8aeb-82cb39f4b262
+Enforcer Bruno,Email,enforcerbruno@example.com
+Enforcer Bruno,Phone,+1-908-577-3475
+Enforcer Bruno,Facebook ID,facebook.com/3599555
+Enforcer Bruno,Address,"136 Oak Rd, City, Country"
+Enforcer Bruno,UUID,9cd8c5e4-6d3d-4f0b-89d9-f80e43db8333
+Enforcer Fabio,Email,enforcerfabio@example.com
+Enforcer Fabio,Phone,+1-346-388-4192
+Enforcer Fabio,Facebook ID,facebook.com/4826195
+Enforcer Fabio,Address,"516 Main St, City, Country"
+Enforcer Fabio,UUID,db4fbbf9-bf9f-4ed8-b222-e8189eb7d2d0
+Lawyer Anna,Email,lawyeranna@example.com
+Lawyer Anna,Phone,+1-577-192-8832
+Lawyer Anna,Facebook ID,facebook.com/4882003
+Lawyer Anna,Address,"912 Oak Rd, City, Country"
+Lawyer Anna,UUID,41d4d3e7-1adc-40e1-9025-ad2c7b522b2e
+Informant Pietro,Email,informantpietro@example.com
+Informant Pietro,Phone,+1-255-749-5866
+Informant Pietro,Facebook ID,facebook.com/6925661
+Informant Pietro,Address,"630 Oak Rd, City, Country"
+Informant Pietro,UUID,dffb18cf-c1d3-4e41-ba33-d0b5ae0e15bf
+Accountant Elena,Email,accountantelena@example.com
+Accountant Elena,Phone,+1-638-433-7134
+Accountant Elena,Facebook ID,facebook.com/4741269
+Accountant Elena,Address,"457 Oak Rd, City, Country"
+Accountant Elena,UUID,41ed188e-9f5f-487d-a81b-033ec604f983

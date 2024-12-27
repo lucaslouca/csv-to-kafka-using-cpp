@@ -1,0 +1,67 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Build and Debug [Input: SPO]",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${workspaceRoot}/build/src/flycatcher",
+      "args": ["-c","configs/SPO_2_kafka.yaml","-d","data/spo"],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "environment": [],
+      "externalConsole": false,
+      "MIMode": "gdb",
+      "setupCommands": [],
+      "preLaunchTask": "build flycatcher",
+      "miDebuggerPath": "/usr/bin/gdb"
+    },
+    {
+      "name": "Build and Debug (Mac OS X) [Input: SPO]",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${workspaceRoot}/build/src/flycatcher",
+      "args": ["-c","configs/SPO_2_kafka.yaml","-d","data/spo"],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "environment": [],
+      "externalConsole": false,
+      "MIMode": "lldb",
+      "setupCommands": [],
+      "preLaunchTask": "build flycatcher",
+      "internalConsoleOptions": "openOnSessionStart"
+    },
+    {
+        "name": "Generate Sample File",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "${workspaceRoot}/benchmark/generate/src/genapp",
+        "args": [],
+        "stopAtEntry": false,
+        "cwd": "${workspaceFolder}",
+        "environment": [],
+        "externalConsole": false,
+        "MIMode": "gdb",
+        "setupCommands": [],
+        "preLaunchTask": "build genapp",
+        "miDebuggerPath": "/usr/bin/gdb"
+    },
+    {
+        "name": "Generate Sample File (Mac OS X)",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "${workspaceRoot}/benchmark/generate/src/genapp",
+        "args": [],
+        "stopAtEntry": false,
+        "cwd": "${workspaceFolder}",
+        "environment": [],
+        "externalConsole": false,
+        "MIMode": "lldb",
+        "setupCommands": [],
+        "preLaunchTask": "build genapp",
+    }
+  ]
+}

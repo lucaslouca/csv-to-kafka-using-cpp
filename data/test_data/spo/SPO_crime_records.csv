@@ -1,0 +1,1001 @@
+Source,Relationship,Target
+Capo Salvatore,Cybercrime,2010
+Soldier Luca,Armed Robbery,2016
+Soldier Nico,Illegal Arms Deal,1990
+Underboss Marco,Kidnapping,2007
+Associate Luigi,Grand Theft Auto,2018
+Soldier Luca,Money Laundering,2006
+Underboss Marco,Counterfeiting,2008
+Soldier Claudia,Human Trafficking,2008
+Soldier Paolo,Extortion,1990
+Soldier Enzo,Cybercrime,1996
+Enforcer Bruno,Bribery,2016
+Capo Angela,Drug Trafficking,2018
+Underboss Marco,Drug Trafficking,1994
+Consigliere Carlo,Smuggling,2017
+Lawyer Anna,Money Laundering,2010
+Associate Luigi,Arson,2019
+Capo Angela,Human Trafficking,2024
+Accountant Elena,Cybercrime,1993
+Lawyer Anna,Cybercrime,2000
+Associate Sergio,Illegal Arms Deal,2007
+Consigliere Carlo,Kidnapping,1990
+Soldier Bianca,Smuggling,2021
+Soldier Marta,Money Laundering,1995
+Enforcer Bruno,Cybercrime,2017
+Associate Sergio,Arson,2002
+Soldier Bianca,Bribery,2004
+Lieutenant Franco,Illegal Arms Deal,2011
+Lawyer Anna,Human Trafficking,2003
+Enforcer Bruno,Human Trafficking,1994
+Associate Mario,Burglary,2016
+Soldier Paolo,Kidnapping,2009
+Soldier Silvia,Illegal Arms Deal,1994
+Consigliere Carlo,Bribery,1991
+Informant Pietro,Smuggling,2003
+Lieutenant Franco,Illegal Arms Deal,2008
+Consigliere Carlo,Money Laundering,1997
+Informant Pietro,Illegal Arms Deal,2013
+Underboss Maria,Blackmail,2012
+Don Vito,Extortion,2007
+Consigliere Carlo,Bribery,2005
+Associate Mario,Extortion,2005
+Informant Pietro,Armed Robbery,2018
+Associate Mario,Money Laundering,2007
+Consigliere Carlo,Money Laundering,2012
+Soldier Luca,Money Laundering,2018
+Consigliere Carlo,Extortion,1990
+Associate Mario,Smuggling,2017
+Enforcer Fabio,Cybercrime,2008
+Underboss Marco,Cybercrime,1997
+Soldier Claudia,Illegal Arms Deal,1998
+Soldier Silvia,Human Trafficking,2004
+Associate Luigi,Drug Trafficking,1990
+Soldier Luca,Blackmail,2016
+Associate Luigi,Blackmail,2009
+Informant Pietro,Arson,2023
+Underboss Marco,Arson,2005
+Capo Salvatore,Drug Trafficking,2019
+Capo Gianni,Blackmail,2015
+Accountant Elena,Cybercrime,2006
+Enforcer Fabio,Kidnapping,2009
+Soldier Claudia,Bribery,2006
+Capo Salvatore,Drug Trafficking,2012
+Soldier Paolo,Money Laundering,2023
+Soldier Silvia,Illegal Arms Deal,2008
+Don Vito,Blackmail,2021
+Don Vito,Fraud,2006
+Soldier Paolo,Arson,2009
+Soldier Paolo,Extortion,2015
+Capo Gianni,Human Trafficking,2001
+Enforcer Bruno,Smuggling,2015
+Soldier Luca,Extortion,2017
+Enforcer Fabio,Cybercrime,1994
+Soldier Claudia,Counterfeiting,1994
+Capo Rosa,Armed Robbery,2016
+Underboss Maria,Counterfeiting,2008
+Soldier Enzo,Kidnapping,2020
+Capo Salvatore,Bribery,1998
+Informant Pietro,Smuggling,2017
+Soldier Luca,Arson,2016
+Don Vito,Extortion,1997
+Lawyer Anna,Human Trafficking,1995
+Associate Sergio,Smuggling,2000
+Accountant Elena,Armed Robbery,2009
+Capo Rosa,Arson,2014
+Soldier Enzo,Burglary,2008
+Soldier Enzo,Bribery,2015
+Capo Angela,Counterfeiting,2022
+Soldier Nico,Burglary,1999
+Enforcer Bruno,Human Trafficking,2022
+Soldier Nico,Kidnapping,1998
+Lieutenant Franco,Kidnapping,1996
+Underboss Maria,Extortion,2012
+Associate Mario,Money Laundering,2023
+Soldier Luca,Extortion,2002
+Underboss Maria,Human Trafficking,2022
+Soldier Claudia,Cybercrime,2021
+Associate Sergio,Fraud,2006
+Associate Mario,Arson,2023
+Soldier Luca,Smuggling,2017
+Enforcer Bruno,Human Trafficking,2024
+Consigliere Carlo,Cybercrime,2018
+Consigliere Carlo,Armed Robbery,2013
+Soldier Silvia,Human Trafficking,1999
+Underboss Marco,Money Laundering,2019
+Soldier Luca,Armed Robbery,2005
+Informant Pietro,Counterfeiting,1994
+Associate Sergio,Grand Theft Auto,2011
+Soldier Paolo,Illegal Arms Deal,2023
+Capo Rosa,Fraud,2022
+Enforcer Fabio,Smuggling,2023
+Associate Sergio,Arson,2006
+Capo Salvatore,Bribery,2000
+Soldier Nico,Armed Robbery,2012
+Underboss Maria,Extortion,2019
+Don Vito,Blackmail,2005
+Accountant Elena,Bribery,2000
+Capo Angela,Cybercrime,2015
+Soldier Enzo,Extortion,2004
+Capo Angela,Kidnapping,1995
+Underboss Marco,Money Laundering,2015
+Lieutenant Franco,Bribery,1996
+Associate Mario,Money Laundering,2008
+Soldier Bianca,Money Laundering,1999
+Lieutenant Franco,Blackmail,2020
+Associate Mario,Human Trafficking,1994
+Soldier Luca,Extortion,1990
+Lieutenant Franco,Illegal Arms Deal,2004
+Soldier Nico,Fraud,2011
+Capo Rosa,Burglary,2023
+Enforcer Bruno,Armed Robbery,1992
+Soldier Paolo,Kidnapping,2010
+Underboss Marco,Cybercrime,1995
+Soldier Silvia,Counterfeiting,2014
+Underboss Maria,Illegal Arms Deal,2000
+Soldier Paolo,Extortion,2024
+Don Vito,Counterfeiting,1993
+Accountant Elena,Grand Theft Auto,1998
+Capo Salvatore,Bribery,2024
+Soldier Marta,Cybercrime,1993
+Lieutenant Franco,Drug Trafficking,2003
+Lawyer Anna,Drug Trafficking,1997
+Capo Rosa,Illegal Arms Deal,1997
+Underboss Maria,Bribery,1995
+Associate Luigi,Fraud,2019
+Associate Sergio,Counterfeiting,2010
+Soldier Silvia,Human Trafficking,1992
+Consigliere Carlo,Counterfeiting,2021
+Soldier Paolo,Burglary,2000
+Capo Rosa,Money Laundering,2015
+Lawyer Anna,Armed Robbery,1993
+Capo Salvatore,Cybercrime,1999
+Associate Sergio,Extortion,2001
+Capo Rosa,Grand Theft Auto,2009
+Soldier Silvia,Human Trafficking,2015
+Soldier Bianca,Burglary,2006
+Informant Pietro,Arson,2005
+Informant Pietro,Blackmail,2019
+Capo Angela,Drug Trafficking,1995
+Enforcer Bruno,Illegal Arms Deal,1993
+Soldier Luca,Human Trafficking,2019
+Soldier Bianca,Smuggling,2003
+Informant Pietro,Burglary,2019
+Enforcer Fabio,Armed Robbery,2001
+Underboss Maria,Extortion,2005
+Enforcer Bruno,Grand Theft Auto,2021
+Soldier Bianca,Illegal Arms Deal,1993
+Lawyer Anna,Grand Theft Auto,1994
+Soldier Marta,Smuggling,2014
+Capo Angela,Armed Robbery,2020
+Underboss Maria,Armed Robbery,2013
+Underboss Maria,Smuggling,2016
+Soldier Nico,Fraud,2000
+Soldier Paolo,Blackmail,2008
+Soldier Bianca,Blackmail,2022
+Informant Pietro,Money Laundering,2008
+Informant Pietro,Money Laundering,2018
+Associate Luigi,Armed Robbery,1996
+Capo Angela,Fraud,2015
+Capo Rosa,Bribery,2015
+Soldier Claudia,Kidnapping,2007
+Soldier Luca,Blackmail,2019
+Associate Mario,Blackmail,2012
+Capo Salvatore,Illegal Arms Deal,2014
+Informant Pietro,Smuggling,2000
+Soldier Marta,Fraud,2007
+Don Vito,Arson,2024
+Soldier Paolo,Extortion,2021
+Don Vito,Cybercrime,2012
+Associate Sergio,Armed Robbery,2012
+Capo Angela,Counterfeiting,2018
+Soldier Claudia,Money Laundering,1992
+Capo Salvatore,Armed Robbery,2017
+Capo Salvatore,Money Laundering,2003
+Informant Pietro,Money Laundering,2015
+Enforcer Bruno,Money Laundering,2020
+Associate Luigi,Grand Theft Auto,2005
+Associate Mario,Arson,2006
+Soldier Luca,Bribery,1992
+Soldier Claudia,Grand Theft Auto,2000
+Soldier Nico,Burglary,2004
+Associate Sergio,Bribery,1994
+Soldier Bianca,Cybercrime,2015
+Enforcer Fabio,Counterfeiting,2001
+Soldier Bianca,Armed Robbery,2007
+Accountant Elena,Armed Robbery,2014
+Enforcer Fabio,Money Laundering,2009
+Capo Angela,Cybercrime,2004
+Associate Mario,Burglary,1999
+Underboss Maria,Armed Robbery,1991
+Associate Luigi,Bribery,1993
+Associate Luigi,Extortion,2018
+Soldier Nico,Bribery,2018
+Capo Angela,Illegal Arms Deal,2019
+Enforcer Fabio,Armed Robbery,2006
+Underboss Marco,Arson,1998
+Accountant Elena,Kidnapping,2018
+Lawyer Anna,Human Trafficking,1997
+Soldier Marta,Fraud,1998
+Soldier Paolo,Bribery,2017
+Soldier Enzo,Kidnapping,1991
+Soldier Claudia,Human Trafficking,2020
+Capo Gianni,Money Laundering,2012
+Consigliere Carlo,Kidnapping,2005
+Enforcer Fabio,Drug Trafficking,2015
+Capo Gianni,Money Laundering,2018
+Associate Mario,Arson,2018
+Associate Luigi,Burglary,2005
+Informant Pietro,Grand Theft Auto,2012
+Capo Gianni,Illegal Arms Deal,2010
+Capo Angela,Human Trafficking,2017
+Accountant Elena,Armed Robbery,2016
+Informant Pietro,Drug Trafficking,2004
+Accountant Elena,Drug Trafficking,2008
+Capo Gianni,Kidnapping,2012
+Enforcer Bruno,Bribery,2009
+Informant Pietro,Illegal Arms Deal,2023
+Capo Angela,Bribery,2014
+Soldier Marta,Money Laundering,2002
+Lieutenant Franco,Money Laundering,2018
+Underboss Maria,Burglary,1991
+Capo Gianni,Illegal Arms Deal,1990
+Soldier Silvia,Grand Theft Auto,2003
+Associate Sergio,Counterfeiting,1996
+Consigliere Carlo,Cybercrime,2001
+Lieutenant Franco,Grand Theft Auto,2022
+Lawyer Anna,Fraud,2024
+Soldier Paolo,Bribery,2015
+Soldier Marta,Drug Trafficking,2008
+Soldier Luca,Illegal Arms Deal,2003
+Capo Gianni,Fraud,2020
+Soldier Nico,Burglary,2008
+Underboss Maria,Grand Theft Auto,1995
+Soldier Bianca,Money Laundering,1999
+Soldier Luca,Human Trafficking,1999
+Consigliere Carlo,Extortion,1991
+Capo Salvatore,Human Trafficking,2001
+Soldier Silvia,Drug Trafficking,2002
+Underboss Marco,Bribery,2001
+Soldier Silvia,Drug Trafficking,1991
+Capo Rosa,Cybercrime,2006
+Capo Angela,Cybercrime,2022
+Consigliere Carlo,Smuggling,1992
+Don Vito,Armed Robbery,1991
+Soldier Enzo,Extortion,2009
+Lawyer Anna,Cybercrime,2008
+Accountant Elena,Human Trafficking,2001
+Capo Gianni,Fraud,2015
+Capo Angela,Kidnapping,1990
+Soldier Marta,Drug Trafficking,2017
+Soldier Paolo,Fraud,2014
+Underboss Maria,Illegal Arms Deal,2020
+Soldier Enzo,Illegal Arms Deal,1998
+Soldier Paolo,Cybercrime,1999
+Capo Salvatore,Arson,2023
+Associate Sergio,Grand Theft Auto,2019
+Soldier Claudia,Arson,2016
+Associate Sergio,Kidnapping,1997
+Capo Gianni,Grand Theft Auto,2012
+Consigliere Carlo,Fraud,1994
+Soldier Enzo,Counterfeiting,2010
+Soldier Silvia,Grand Theft Auto,2013
+Capo Angela,Fraud,2019
+Don Vito,Bribery,1998
+Soldier Paolo,Burglary,2024
+Don Vito,Fraud,2009
+Soldier Bianca,Counterfeiting,1997
+Soldier Enzo,Armed Robbery,1991
+Associate Mario,Bribery,2013
+Enforcer Bruno,Cybercrime,2001
+Associate Luigi,Cybercrime,2020
+Soldier Nico,Arson,2006
+Soldier Silvia,Money Laundering,2020
+Soldier Claudia,Bribery,1996
+Lieutenant Franco,Money Laundering,2016
+Soldier Claudia,Armed Robbery,1992
+Associate Luigi,Human Trafficking,2003
+Underboss Maria,Blackmail,2023
+Soldier Claudia,Bribery,2017
+Informant Pietro,Armed Robbery,1993
+Accountant Elena,Extortion,2007
+Capo Angela,Illegal Arms Deal,2016
+Don Vito,Kidnapping,2007
+Soldier Paolo,Extortion,1992
+Capo Salvatore,Human Trafficking,1991
+Capo Rosa,Blackmail,2019
+Underboss Maria,Drug Trafficking,2017
+Soldier Marta,Extortion,2016
+Don Vito,Bribery,1997
+Associate Sergio,Money Laundering,2004
+Soldier Silvia,Human Trafficking,1996
+Soldier Luca,Money Laundering,2006
+Consigliere Carlo,Human Trafficking,2010
+Soldier Enzo,Blackmail,2023
+Soldier Silvia,Illegal Arms Deal,1999
+Capo Angela,Cybercrime,2023
+Informant Pietro,Burglary,1992
+Accountant Elena,Burglary,2007
+Soldier Marta,Human Trafficking,2009
+Soldier Marta,Counterfeiting,1997
+Soldier Bianca,Extortion,2007
+Soldier Marta,Smuggling,1997
+Underboss Marco,Illegal Arms Deal,2002
+Consigliere Carlo,Kidnapping,2018
+Consigliere Carlo,Burglary,2007
+Enforcer Bruno,Grand Theft Auto,2024
+Soldier Marta,Grand Theft Auto,2004
+Lawyer Anna,Cybercrime,1995
+Capo Salvatore,Kidnapping,2009
+Underboss Marco,Drug Trafficking,2013
+Capo Rosa,Armed Robbery,2016
+Soldier Nico,Counterfeiting,1997
+Accountant Elena,Kidnapping,1993
+Capo Rosa,Drug Trafficking,2009
+Associate Sergio,Drug Trafficking,2004
+Soldier Nico,Grand Theft Auto,2008
+Soldier Enzo,Blackmail,2017
+Lawyer Anna,Counterfeiting,2019
+Soldier Silvia,Fraud,2007
+Associate Mario,Drug Trafficking,1995
+Lieutenant Franco,Grand Theft Auto,2020
+Soldier Nico,Smuggling,1997
+Soldier Bianca,Extortion,2002
+Don Vito,Smuggling,1993
+Soldier Enzo,Drug Trafficking,2004
+Consigliere Carlo,Extortion,2024
+Soldier Luca,Blackmail,2018
+Soldier Marta,Grand Theft Auto,2000
+Accountant Elena,Bribery,2016
+Soldier Silvia,Money Laundering,2008
+Enforcer Fabio,Counterfeiting,2005
+Capo Rosa,Extortion,1994
+Soldier Nico,Armed Robbery,2024
+Soldier Bianca,Cybercrime,2000
+Capo Rosa,Money Laundering,1997
+Lawyer Anna,Armed Robbery,1995
+Capo Gianni,Kidnapping,2012
+Soldier Paolo,Drug Trafficking,2010
+Accountant Elena,Blackmail,2016
+Soldier Enzo,Kidnapping,2017
+Lieutenant Franco,Arson,2024
+Accountant Elena,Kidnapping,1995
+Soldier Silvia,Fraud,1990
+Soldier Nico,Burglary,2008
+Accountant Elena,Burglary,1991
+Don Vito,Human Trafficking,1999
+Soldier Marta,Human Trafficking,2010
+Associate Luigi,Cybercrime,2001
+Soldier Silvia,Bribery,1997
+Soldier Bianca,Cybercrime,2021
+Accountant Elena,Grand Theft Auto,2005
+Capo Salvatore,Smuggling,2015
+Soldier Silvia,Blackmail,1995
+Capo Gianni,Money Laundering,2008
+Soldier Marta,Bribery,2010
+Lawyer Anna,Extortion,2000
+Don Vito,Grand Theft Auto,2022
+Lawyer Anna,Fraud,1995
+Lieutenant Franco,Armed Robbery,2010
+Soldier Marta,Cybercrime,2021
+Soldier Luca,Kidnapping,1991
+Soldier Marta,Kidnapping,2015
+Associate Mario,Counterfeiting,2015
+Enforcer Fabio,Cybercrime,2011
+Don Vito,Bribery,2004
+Soldier Nico,Cybercrime,2002
+Accountant Elena,Burglary,2018
+Capo Salvatore,Cybercrime,2021
+Soldier Nico,Human Trafficking,2010
+Soldier Claudia,Grand Theft Auto,2001
+Soldier Marta,Money Laundering,1997
+Don Vito,Cybercrime,1993
+Underboss Maria,Extortion,2008
+Soldier Luca,Arson,1990
+Soldier Luca,Money Laundering,2011
+Associate Sergio,Smuggling,1990
+Soldier Claudia,Kidnapping,1997
+Associate Sergio,Bribery,1998
+Soldier Luca,Bribery,1998
+Lieutenant Franco,Smuggling,2019
+Associate Sergio,Cybercrime,2024
+Enforcer Fabio,Burglary,2000
+Capo Rosa,Armed Robbery,1993
+Don Vito,Armed Robbery,2011
+Lawyer Anna,Drug Trafficking,2008
+Enforcer Bruno,Illegal Arms Deal,2000
+Consigliere Carlo,Counterfeiting,2017
+Underboss Maria,Armed Robbery,2015
+Soldier Bianca,Smuggling,1994
+Soldier Paolo,Arson,2008
+Informant Pietro,Arson,2015
+Accountant Elena,Smuggling,2008
+Informant Pietro,Kidnapping,2014
+Capo Rosa,Bribery,2016
+Consigliere Carlo,Cybercrime,2016
+Underboss Marco,Drug Trafficking,1990
+Don Vito,Grand Theft Auto,2004
+Capo Salvatore,Kidnapping,2013
+Enforcer Bruno,Grand Theft Auto,1999
+Lawyer Anna,Burglary,1999
+Capo Gianni,Armed Robbery,2015
+Associate Sergio,Drug Trafficking,2005
+Enforcer Bruno,Burglary,1997
+Underboss Maria,Counterfeiting,1998
+Capo Salvatore,Fraud,2001
+Soldier Silvia,Drug Trafficking,2012
+Soldier Bianca,Cybercrime,1998
+Soldier Marta,Extortion,2024
+Enforcer Bruno,Kidnapping,2002
+Soldier Bianca,Armed Robbery,1996
+Consigliere Carlo,Money Laundering,2008
+Underboss Marco,Illegal Arms Deal,1990
+Soldier Luca,Bribery,2007
+Capo Gianni,Extortion,2019
+Associate Mario,Extortion,1996
+Lawyer Anna,Burglary,1995
+Soldier Silvia,Blackmail,2012
+Underboss Maria,Cybercrime,2016
+Lieutenant Franco,Bribery,2019
+Associate Luigi,Arson,2007
+Soldier Claudia,Bribery,2002
+Capo Gianni,Grand Theft Auto,2007
+Enforcer Bruno,Kidnapping,2012
+Associate Sergio,Human Trafficking,2019
+Underboss Marco,Burglary,2024
+Lawyer Anna,Kidnapping,1990
+Soldier Silvia,Blackmail,2016
+Enforcer Bruno,Fraud,2023
+Capo Salvatore,Cybercrime,2001
+Soldier Paolo,Grand Theft Auto,2013
+Soldier Silvia,Blackmail,2008
+Don Vito,Smuggling,2009
+Capo Angela,Arson,2023
+Don Vito,Counterfeiting,2022
+Soldier Enzo,Bribery,1998
+Capo Salvatore,Blackmail,1995
+Lawyer Anna,Human Trafficking,2012
+Soldier Bianca,Blackmail,1997
+Capo Gianni,Bribery,2018
+Capo Angela,Fraud,1998
+Capo Rosa,Counterfeiting,2019
+Lawyer Anna,Drug Trafficking,2023
+Consigliere Carlo,Extortion,1995
+Underboss Marco,Arson,2002
+Underboss Marco,Smuggling,2020
+Lawyer Anna,Bribery,1992
+Lieutenant Franco,Grand Theft Auto,1991
+Capo Rosa,Kidnapping,2014
+Soldier Enzo,Kidnapping,2003
+Soldier Luca,Blackmail,1993
+Soldier Luca,Counterfeiting,2006
+Informant Pietro,Money Laundering,1990
+Soldier Enzo,Arson,2015
+Soldier Nico,Counterfeiting,2003
+Soldier Paolo,Blackmail,2005
+Lieutenant Franco,Grand Theft Auto,2014
+Soldier Silvia,Smuggling,1998
+Soldier Silvia,Counterfeiting,2018
+Accountant Elena,Armed Robbery,2022
+Soldier Nico,Kidnapping,2009
+Accountant Elena,Drug Trafficking,1994
+Soldier Paolo,Arson,1997
+Don Vito,Extortion,1996
+Soldier Claudia,Grand Theft Auto,1992
+Soldier Enzo,Drug Trafficking,1993
+Soldier Marta,Human Trafficking,1991
+Soldier Bianca,Blackmail,1998
+Soldier Nico,Human Trafficking,2024
+Capo Salvatore,Illegal Arms Deal,2008
+Associate Sergio,Kidnapping,1998
+Soldier Nico,Armed Robbery,2019
+Soldier Marta,Kidnapping,2002
+Capo Salvatore,Bribery,2015
+Soldier Silvia,Grand Theft Auto,2002
+Associate Mario,Money Laundering,2014
+Capo Angela,Human Trafficking,1992
+Soldier Luca,Bribery,2001
+Underboss Marco,Bribery,2013
+Accountant Elena,Illegal Arms Deal,2023
+Capo Salvatore,Smuggling,2011
+Associate Sergio,Cybercrime,1993
+Lieutenant Franco,Counterfeiting,2001
+Associate Sergio,Smuggling,2010
+Associate Mario,Money Laundering,2000
+Informant Pietro,Money Laundering,2022
+Accountant Elena,Fraud,1993
+Lieutenant Franco,Burglary,2018
+Accountant Elena,Cybercrime,1998
+Associate Sergio,Grand Theft Auto,2014
+Capo Rosa,Arson,2007
+Capo Angela,Cybercrime,2006
+Lawyer Anna,Kidnapping,2023
+Lieutenant Franco,Armed Robbery,1990
+Soldier Nico,Grand Theft Auto,1990
+Underboss Maria,Human Trafficking,2019
+Associate Mario,Counterfeiting,2013
+Associate Mario,Cybercrime,2023
+Soldier Enzo,Human Trafficking,2018
+Associate Sergio,Counterfeiting,1993
+Soldier Silvia,Counterfeiting,2022
+Soldier Marta,Extortion,2011
+Associate Sergio,Human Trafficking,2004
+Associate Sergio,Fraud,2022
+Underboss Maria,Smuggling,2007
+Soldier Nico,Grand Theft Auto,2021
+Underboss Maria,Burglary,2014
+Lieutenant Franco,Smuggling,2001
+Soldier Paolo,Armed Robbery,2005
+Associate Mario,Kidnapping,2009
+Accountant Elena,Counterfeiting,2016
+Underboss Maria,Money Laundering,2004
+Underboss Maria,Burglary,2005
+Lawyer Anna,Cybercrime,2001
+Capo Rosa,Human Trafficking,2024
+Underboss Maria,Bribery,2000
+Capo Angela,Fraud,2004
+Informant Pietro,Smuggling,2016
+Consigliere Carlo,Extortion,1998
+Enforcer Bruno,Kidnapping,2004
+Capo Gianni,Human Trafficking,1998
+Lieutenant Franco,Kidnapping,2010
+Enforcer Bruno,Extortion,1999
+Associate Sergio,Bribery,2004
+Underboss Maria,Cybercrime,2014
+Associate Mario,Counterfeiting,1998
+Soldier Nico,Fraud,2017
+Capo Salvatore,Armed Robbery,1994
+Associate Luigi,Burglary,2022
+Soldier Enzo,Burglary,2011
+Soldier Enzo,Money Laundering,2023
+Soldier Luca,Human Trafficking,1990
+Consigliere Carlo,Money Laundering,2019
+Soldier Nico,Arson,1995
+Soldier Luca,Counterfeiting,2019
+Capo Angela,Illegal Arms Deal,2005
+Soldier Claudia,Bribery,2002
+Capo Angela,Grand Theft Auto,1991
+Underboss Marco,Extortion,2007
+Underboss Maria,Counterfeiting,1993
+Enforcer Bruno,Counterfeiting,1993
+Associate Luigi,Grand Theft Auto,1994
+Soldier Nico,Armed Robbery,2006
+Informant Pietro,Arson,2012
+Capo Angela,Blackmail,1997
+Enforcer Fabio,Money Laundering,1990
+Enforcer Fabio,Fraud,2001
+Soldier Claudia,Smuggling,2018
+Underboss Maria,Human Trafficking,2011
+Soldier Claudia,Counterfeiting,2013
+Capo Rosa,Human Trafficking,2002
+Underboss Maria,Counterfeiting,1990
+Soldier Silvia,Human Trafficking,2014
+Enforcer Bruno,Grand Theft Auto,1991
+Associate Sergio,Counterfeiting,2003
+Enforcer Fabio,Counterfeiting,2020
+Enforcer Fabio,Bribery,2002
+Associate Sergio,Armed Robbery,2004
+Don Vito,Illegal Arms Deal,2018
+Enforcer Fabio,Extortion,2009
+Capo Salvatore,Extortion,2012
+Enforcer Fabio,Human Trafficking,1991
+Lawyer Anna,Grand Theft Auto,2022
+Informant Pietro,Blackmail,2006
+Associate Mario,Illegal Arms Deal,2005
+Informant Pietro,Grand Theft Auto,2002
+Soldier Enzo,Drug Trafficking,2019
+Soldier Bianca,Human Trafficking,2001
+Soldier Claudia,Fraud,2004
+Enforcer Bruno,Smuggling,1994
+Capo Rosa,Cybercrime,2006
+Soldier Paolo,Burglary,1992
+Underboss Maria,Bribery,2003
+Enforcer Bruno,Kidnapping,1990
+Underboss Maria,Arson,2020
+Enforcer Fabio,Counterfeiting,1991
+Soldier Enzo,Money Laundering,2012
+Capo Salvatore,Illegal Arms Deal,1990
+Capo Angela,Armed Robbery,2009
+Associate Mario,Extortion,2010
+Lawyer Anna,Fraud,2003
+Don Vito,Grand Theft Auto,2001
+Lawyer Anna,Human Trafficking,1992
+Capo Salvatore,Illegal Arms Deal,1992
+Soldier Bianca,Bribery,2001
+Capo Gianni,Armed Robbery,2007
+Soldier Nico,Money Laundering,2011
+Soldier Luca,Drug Trafficking,2010
+Don Vito,Arson,1999
+Soldier Enzo,Fraud,2014
+Capo Salvatore,Cybercrime,2014
+Enforcer Bruno,Armed Robbery,2017
+Soldier Nico,Grand Theft Auto,1994
+Capo Angela,Illegal Arms Deal,2024
+Capo Salvatore,Kidnapping,1997
+Lieutenant Franco,Smuggling,2021
+Lawyer Anna,Cybercrime,2023
+Underboss Marco,Grand Theft Auto,2000
+Underboss Maria,Armed Robbery,2015
+Capo Salvatore,Drug Trafficking,2020
+Don Vito,Counterfeiting,2009
+Soldier Paolo,Fraud,1990
+Capo Rosa,Bribery,2021
+Underboss Marco,Cybercrime,2023
+Don Vito,Arson,1999
+Underboss Maria,Counterfeiting,1999
+Soldier Claudia,Smuggling,2024
+Capo Rosa,Cybercrime,2021
+Enforcer Fabio,Extortion,1991
+Associate Mario,Human Trafficking,1991
+Soldier Bianca,Blackmail,1993
+Lawyer Anna,Bribery,2014
+Lieutenant Franco,Arson,2006
+Soldier Luca,Kidnapping,2020
+Lieutenant Franco,Fraud,1997
+Soldier Luca,Grand Theft Auto,2004
+Soldier Enzo,Counterfeiting,2004
+Capo Rosa,Bribery,1998
+Consigliere Carlo,Blackmail,2013
+Capo Gianni,Armed Robbery,2008
+Soldier Claudia,Extortion,1994
+Associate Sergio,Counterfeiting,1999
+Associate Luigi,Burglary,2020
+Soldier Silvia,Arson,1998
+Underboss Marco,Smuggling,2005
+Capo Salvatore,Fraud,2004
+Underboss Maria,Kidnapping,1997
+Soldier Paolo,Smuggling,2018
+Enforcer Fabio,Armed Robbery,1991
+Underboss Maria,Money Laundering,2008
+Lieutenant Franco,Cybercrime,1991
+Accountant Elena,Grand Theft Auto,1998
+Soldier Bianca,Counterfeiting,2023
+Soldier Luca,Armed Robbery,2023
+Lieutenant Franco,Armed Robbery,2011
+Associate Luigi,Counterfeiting,2015
+Enforcer Fabio,Extortion,2014
+Underboss Marco,Money Laundering,2003
+Capo Salvatore,Illegal Arms Deal,1996
+Associate Luigi,Arson,1990
+Capo Salvatore,Grand Theft Auto,1990
+Capo Salvatore,Fraud,2021
+Soldier Silvia,Blackmail,1998
+Soldier Luca,Extortion,1996
+Soldier Paolo,Illegal Arms Deal,2003
+Associate Sergio,Fraud,2013
+Associate Luigi,Grand Theft Auto,1993
+Accountant Elena,Illegal Arms Deal,1996
+Capo Angela,Grand Theft Auto,1990
+Soldier Paolo,Drug Trafficking,2017
+Soldier Silvia,Human Trafficking,2022
+Accountant Elena,Bribery,2001
+Associate Mario,Fraud,2007
+Don Vito,Counterfeiting,2002
+Soldier Enzo,Cybercrime,2015
+Enforcer Bruno,Armed Robbery,2005
+Soldier Paolo,Smuggling,2023
+Capo Gianni,Human Trafficking,2016
+Associate Luigi,Blackmail,2008
+Lawyer Anna,Arson,2022
+Soldier Claudia,Money Laundering,1995
+Lawyer Anna,Blackmail,2013
+Associate Luigi,Smuggling,2008
+Associate Mario,Grand Theft Auto,1999
+Underboss Maria,Kidnapping,1990
+Soldier Nico,Smuggling,2011
+Enforcer Bruno,Human Trafficking,2001
+Enforcer Fabio,Kidnapping,2012
+Associate Luigi,Drug Trafficking,1995
+Capo Gianni,Counterfeiting,2014
+Underboss Marco,Extortion,1996
+Associate Sergio,Armed Robbery,1991
+Enforcer Bruno,Kidnapping,2001
+Associate Sergio,Fraud,1997
+Associate Mario,Smuggling,1995
+Enforcer Fabio,Arson,2018
+Capo Gianni,Kidnapping,2005
+Capo Salvatore,Fraud,2020
+Capo Angela,Human Trafficking,2010
+Underboss Marco,Illegal Arms Deal,2000
+Soldier Claudia,Kidnapping,2000
+Capo Gianni,Human Trafficking,1998
+Consigliere Carlo,Grand Theft Auto,2004
+Lawyer Anna,Human Trafficking,1991
+Capo Salvatore,Drug Trafficking,2023
+Soldier Nico,Money Laundering,2023
+Underboss Maria,Cybercrime,2023
+Underboss Maria,Money Laundering,2016
+Capo Gianni,Smuggling,2006
+Don Vito,Counterfeiting,1991
+Soldier Enzo,Drug Trafficking,1998
+Soldier Silvia,Illegal Arms Deal,1991
+Underboss Maria,Money Laundering,2005
+Capo Angela,Armed Robbery,2022
+Soldier Marta,Kidnapping,1997
+Enforcer Fabio,Drug Trafficking,1991
+Enforcer Bruno,Kidnapping,2010
+Enforcer Fabio,Armed Robbery,2021
+Enforcer Fabio,Bribery,2016
+Soldier Bianca,Blackmail,1991
+Lawyer Anna,Human Trafficking,2010
+Capo Angela,Drug Trafficking,2021
+Accountant Elena,Counterfeiting,2014
+Lieutenant Franco,Kidnapping,2019
+Soldier Silvia,Money Laundering,2022
+Associate Sergio,Illegal Arms Deal,1995
+Soldier Bianca,Drug Trafficking,1993
+Soldier Luca,Bribery,2003
+Underboss Maria,Human Trafficking,2021
+Capo Rosa,Illegal Arms Deal,2001
+Associate Luigi,Cybercrime,2003
+Soldier Claudia,Grand Theft Auto,2016
+Accountant Elena,Money Laundering,2010
+Soldier Paolo,Arson,2007
+Underboss Marco,Extortion,1995
+Enforcer Bruno,Extortion,1990
+Soldier Claudia,Kidnapping,1992
+Consigliere Carlo,Cybercrime,2017
+Soldier Silvia,Money Laundering,1990
+Don Vito,Extortion,2009
+Capo Gianni,Fraud,2022
+Associate Mario,Burglary,2002
+Enforcer Fabio,Arson,2004
+Don Vito,Bribery,2007
+Lawyer Anna,Arson,2005
+Soldier Enzo,Cybercrime,2001
+Informant Pietro,Counterfeiting,2005
+Soldier Nico,Cybercrime,2016
+Soldier Silvia,Counterfeiting,2015
+Soldier Silvia,Smuggling,2009
+Associate Mario,Fraud,1992
+Soldier Claudia,Bribery,2001
+Capo Rosa,Burglary,1996
+Don Vito,Extortion,1999
+Capo Gianni,Armed Robbery,2014
+Soldier Nico,Smuggling,2012
+Associate Mario,Blackmail,2008
+Associate Luigi,Cybercrime,1992
+Capo Salvatore,Human Trafficking,1997
+Associate Sergio,Human Trafficking,1995
+Associate Mario,Cybercrime,1998
+Soldier Bianca,Human Trafficking,2018
+Accountant Elena,Human Trafficking,2019
+Soldier Nico,Drug Trafficking,1996
+Capo Rosa,Drug Trafficking,1998
+Don Vito,Armed Robbery,2023
+Capo Gianni,Counterfeiting,1998
+Enforcer Bruno,Smuggling,2001
+Underboss Maria,Burglary,2011
+Soldier Nico,Human Trafficking,1999
+Soldier Silvia,Fraud,2023
+Soldier Luca,Counterfeiting,2010
+Soldier Bianca,Blackmail,2016
+Associate Sergio,Extortion,1999
+Soldier Claudia,Human Trafficking,2011
+Capo Salvatore,Human Trafficking,2012
+Soldier Silvia,Money Laundering,2017
+Associate Mario,Counterfeiting,2006
+Consigliere Carlo,Extortion,1998
+Soldier Claudia,Burglary,1995
+Soldier Paolo,Illegal Arms Deal,2003
+Enforcer Fabio,Blackmail,2022
+Associate Luigi,Drug Trafficking,1999
+Accountant Elena,Armed Robbery,2013
+Lawyer Anna,Cybercrime,2013
+Associate Sergio,Smuggling,1999
+Accountant Elena,Illegal Arms Deal,2015
+Consigliere Carlo,Bribery,2020
+Informant Pietro,Burglary,2009
+Accountant Elena,Blackmail,1997
+Lieutenant Franco,Fraud,2010
+Soldier Luca,Arson,2018
+Soldier Paolo,Counterfeiting,2002
+Associate Luigi,Counterfeiting,2013
+Associate Sergio,Counterfeiting,2014
+Enforcer Fabio,Drug Trafficking,2003
+Soldier Bianca,Human Trafficking,2004
+Enforcer Bruno,Drug Trafficking,2015
+Soldier Marta,Armed Robbery,1994
+Soldier Claudia,Smuggling,2003
+Lawyer Anna,Drug Trafficking,2022
+Consigliere Carlo,Money Laundering,1995
+Associate Luigi,Bribery,2023
+Soldier Silvia,Burglary,1991
+Capo Angela,Cybercrime,2003
+Soldier Claudia,Smuggling,2013
+Associate Mario,Burglary,2021
+Underboss Maria,Fraud,2005
+Associate Mario,Human Trafficking,2023
+Soldier Marta,Armed Robbery,2010
+Enforcer Fabio,Blackmail,2019
+Soldier Luca,Extortion,1994
+Don Vito,Burglary,2003
+Underboss Marco,Counterfeiting,1997
+Underboss Marco,Illegal Arms Deal,2008
+Accountant Elena,Bribery,1994
+Lawyer Anna,Grand Theft Auto,1991
+Soldier Enzo,Armed Robbery,1998
+Soldier Enzo,Burglary,2019
+Accountant Elena,Armed Robbery,2012
+Lieutenant Franco,Fraud,1991
+Associate Sergio,Grand Theft Auto,1994
+Capo Salvatore,Money Laundering,1997
+Consigliere Carlo,Blackmail,2020
+Soldier Enzo,Blackmail,2023
+Soldier Marta,Armed Robbery,2019
+Accountant Elena,Grand Theft Auto,1996
+Soldier Enzo,Kidnapping,2024
+Associate Luigi,Arson,2018
+Consigliere Carlo,Drug Trafficking,2007
+Accountant Elena,Cybercrime,2024
+Lawyer Anna,Kidnapping,2007
+Informant Pietro,Arson,1995
+Accountant Elena,Burglary,2003
+Capo Salvatore,Cybercrime,1998
+Capo Rosa,Fraud,2007
+Capo Rosa,Money Laundering,1995
+Soldier Enzo,Grand Theft Auto,2013
+Enforcer Bruno,Kidnapping,1991
+Accountant Elena,Armed Robbery,2014
+Soldier Bianca,Counterfeiting,2010
+Capo Gianni,Smuggling,2022
+Enforcer Fabio,Illegal Arms Deal,1998
+Lawyer Anna,Armed Robbery,2002
+Enforcer Fabio,Money Laundering,1992
+Accountant Elena,Money Laundering,2020
+Soldier Bianca,Smuggling,2012
+Associate Luigi,Arson,2020
+Underboss Marco,Money Laundering,2020
+Enforcer Bruno,Blackmail,2005
+Lieutenant Franco,Extortion,2013
+Associate Luigi,Cybercrime,2004
+Capo Angela,Armed Robbery,2024
+Don Vito,Extortion,2003
+Soldier Marta,Bribery,2023
+Capo Salvatore,Cybercrime,1993
+Don Vito,Fraud,1990
+Associate Sergio,Drug Trafficking,2023
+Enforcer Fabio,Smuggling,2006
+Accountant Elena,Human Trafficking,2020
+Enforcer Fabio,Burglary,1998
+Enforcer Fabio,Burglary,2012
+Lawyer Anna,Smuggling,2001
+Lawyer Anna,Armed Robbery,1997
+Soldier Nico,Kidnapping,1990
+Soldier Paolo,Counterfeiting,2020
+Lieutenant Franco,Smuggling,2024
+Soldier Nico,Armed Robbery,1994
+Don Vito,Blackmail,1995
+Capo Rosa,Extortion,2012
+Capo Angela,Counterfeiting,1990
+Associate Sergio,Drug Trafficking,2024
+Associate Mario,Drug Trafficking,2007
+Lieutenant Franco,Cybercrime,1993
+Soldier Paolo,Bribery,1993
+Enforcer Bruno,Extortion,1994
+Associate Luigi,Burglary,1991
+Lieutenant Franco,Smuggling,2018
+Associate Sergio,Arson,2010
+Accountant Elena,Cybercrime,2023
+Accountant Elena,Bribery,2009
+Soldier Luca,Arson,2024
+Don Vito,Smuggling,2007
+Soldier Enzo,Fraud,2000
+Accountant Elena,Cybercrime,2002
+Soldier Marta,Bribery,2008
+Enforcer Bruno,Illegal Arms Deal,2000
+Soldier Marta,Fraud,2009
+Capo Rosa,Kidnapping,2020
+Soldier Nico,Armed Robbery,2020
+Underboss Marco,Smuggling,2000
+Consigliere Carlo,Grand Theft Auto,2021
+Capo Angela,Money Laundering,2006
+Soldier Silvia,Arson,2021
+Soldier Marta,Blackmail,1990
+Enforcer Fabio,Human Trafficking,2016
+Enforcer Fabio,Human Trafficking,2003
+Soldier Enzo,Money Laundering,2004
+Capo Rosa,Grand Theft Auto,1997
+Soldier Bianca,Cybercrime,2002
+Don Vito,Bribery,2021
+Don Vito,Grand Theft Auto,1990
+Capo Angela,Fraud,1990
+Soldier Nico,Illegal Arms Deal,1998
+Capo Salvatore,Fraud,1998
+Soldier Silvia,Bribery,2024
+Soldier Luca,Money Laundering,1990
+Soldier Paolo,Bribery,2007
+Consigliere Carlo,Blackmail,2013
+Capo Rosa,Blackmail,2024
+Lawyer Anna,Kidnapping,2023
+Underboss Maria,Blackmail,1999
+Lawyer Anna,Bribery,2001
+Informant Pietro,Drug Trafficking,2007
+Soldier Silvia,Human Trafficking,2010
+Don Vito,Money Laundering,2016
+Informant Pietro,Drug Trafficking,1998
+Consigliere Carlo,Illegal Arms Deal,2002
+Capo Rosa,Extortion,1993
+Informant Pietro,Armed Robbery,2006
+Capo Gianni,Fraud,2013
+Underboss Marco,Human Trafficking,2018
+Capo Gianni,Cybercrime,2017
+Don Vito,Extortion,2020
+Accountant Elena,Blackmail,2003
+Accountant Elena,Extortion,2022
+Enforcer Fabio,Illegal Arms Deal,2000
+Don Vito,Illegal Arms Deal,2014
+Enforcer Bruno,Kidnapping,2012
+Enforcer Bruno,Arson,1993
+Informant Pietro,Grand Theft Auto,2024
+Associate Mario,Drug Trafficking,2012
+Enforcer Bruno,Armed Robbery,2008
+Enforcer Bruno,Illegal Arms Deal,2019
+Capo Rosa,Grand Theft Auto,2005
+Lawyer Anna,Bribery,2018
+Don Vito,Arson,2005
+Don Vito,Bribery,2020
+Soldier Nico,Illegal Arms Deal,1990
+Soldier Marta,Human Trafficking,1991
+Underboss Marco,Cybercrime,2011
+Soldier Paolo,Extortion,2020
+Enforcer Fabio,Money Laundering,1999
+Accountant Elena,Illegal Arms Deal,1995
+Enforcer Bruno,Armed Robbery,1992
+Associate Luigi,Fraud,2001
+Consigliere Carlo,Extortion,1995
+Soldier Claudia,Armed Robbery,1997
+Associate Luigi,Cybercrime,1996
+Lawyer Anna,Extortion,2000
+Capo Salvatore,Burglary,2004
+Capo Angela,Armed Robbery,2024
+Enforcer Fabio,Burglary,2009
+Consigliere Carlo,Human Trafficking,1998
+Capo Gianni,Grand Theft Auto,1991
+Soldier Luca,Grand Theft Auto,2019
+Soldier Claudia,Bribery,1997
+Consigliere Carlo,Human Trafficking,2003
+Soldier Marta,Money Laundering,2004
+Lawyer Anna,Bribery,2003
+Soldier Enzo,Burglary,2019
+Consigliere Carlo,Counterfeiting,2014
+Capo Salvatore,Smuggling,2009
+Soldier Bianca,Blackmail,2016
+Enforcer Fabio,Money Laundering,2019
+Informant Pietro,Cybercrime,2008
+Soldier Marta,Human Trafficking,2005
+Capo Angela,Fraud,1997
+Capo Angela,Grand Theft Auto,2001
+Soldier Silvia,Drug Trafficking,2000
+Capo Salvatore,Arson,2018
+Associate Luigi,Grand Theft Auto,2024
+Soldier Nico,Grand Theft Auto,1999
+Soldier Claudia,Kidnapping,2017
+Accountant Elena,Money Laundering,2023
+Soldier Paolo,Cybercrime,1991
+Lawyer Anna,Smuggling,2014
+Capo Angela,Illegal Arms Deal,1999
+Soldier Luca,Armed Robbery,1995
+Capo Rosa,Drug Trafficking,1995
+Don Vito,Grand Theft Auto,2015
+Underboss Maria,Counterfeiting,1990
+Enforcer Bruno,Armed Robbery,2018
+Capo Gianni,Smuggling,2021
+Lawyer Anna,Drug Trafficking,1994
+Enforcer Bruno,Armed Robbery,1995
+Associate Sergio,Smuggling,2018
+Soldier Claudia,Extortion,1999
+Capo Angela,Money Laundering,1995
+Soldier Luca,Kidnapping,2007
+Capo Gianni,Arson,2004
+Soldier Marta,Blackmail,1997
+Capo Rosa,Blackmail,2004
+Soldier Enzo,Illegal Arms Deal,1999
+Lawyer Anna,Blackmail,2002
+Lawyer Anna,Kidnapping,2019
+Underboss Marco,Armed Robbery,2008
+Enforcer Fabio,Burglary,2002
+Lawyer Anna,Kidnapping,1999
+Underboss Maria,Arson,2000
+Consigliere Carlo,Counterfeiting,1993
+Associate Sergio,Burglary,1998

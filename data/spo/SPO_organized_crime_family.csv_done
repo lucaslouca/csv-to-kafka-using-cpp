@@ -1,0 +1,27 @@
+Source,Target,Relationship
+Don Vito,Consigliere Carlo,Advisor
+Don Vito,Underboss Marco,Underboss
+Underboss Marco,Capo Salvatore,Captain
+Underboss Marco,Capo Gianni,Captain
+Capo Salvatore,Soldier Luca,Soldier
+Capo Salvatore,Soldier Enzo,Soldier
+Capo Gianni,Soldier Paolo,Soldier
+Capo Gianni,Soldier Nico,Soldier
+Consigliere Carlo,Lawyer Anna,Legal Advisor
+Consigliere Carlo,Accountant Elena,Financial Advisor
+Underboss Marco,Lieutenant Franco,Lieutenant
+Lieutenant Franco,Associate Mario,Associate
+Lieutenant Franco,Associate Luigi,Associate
+Lieutenant Franco,Associate Sergio,Associate
+Capo Salvatore,Enforcer Bruno,Enforcer
+Capo Gianni,Enforcer Fabio,Enforcer
+Capo Gianni,Associate Antonio,Associate
+Capo Salvatore,Associate Giuseppe,Associate
+Don Vito,Underboss Maria,Underboss
+Underboss Maria,Capo Rosa,Captain
+Underboss Maria,Capo Angela,Captain
+Capo Rosa,Soldier Silvia,Soldier
+Capo Rosa,Soldier Marta,Soldier
+Capo Angela,Soldier Claudia,Soldier
+Capo Angela,Soldier Bianca,Soldier
+Lawyer Anna,Informant Pietro,Informant

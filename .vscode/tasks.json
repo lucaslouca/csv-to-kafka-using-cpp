@@ -1,0 +1,59 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "shell",
+      "label": "build broker",
+      "command": "/usr/bin/clang++",
+      "args": ["-pthread", "-Wno-switch", "-Wpedantic", "-std=c++17", "-stdlib=libc++", "-I", "${workspaceFolder}/twsapi", "-I", "${workspaceFolder}", "${workspaceFolder}/twsapi/*.cpp", "-g", "${workspaceFolder}/Broker/*.cpp", "-o", "${workspaceFolder}/bin/broker"],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": ["$gcc"],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "detail": "compiler: /usr/bin/clang++"
+    },
+    {
+      "type": "cppbuild",
+      "label": "build flycatcher",
+      "command": "./make-me",
+      "args": [],
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": {
+        "base": "$gcc",
+        "fileLocation": ["relative", "${workspaceFolder}/src"]
+      },
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "detail": "make-me => Makefile => g++"
+    },
+    {
+      "type": "cppbuild",
+      "label": "build genapp",
+      "command": "./make-me",
+      "args": [],
+      "options": {
+          "cwd": "${workspaceFolder}/benchmark/generate"
+      },
+      "problemMatcher": {
+          "base": "$gcc",
+          "fileLocation": [
+              "relative",
+              "${workspaceFolder}/benchmark/generate/src"
+          ]
+      },
+      "group": {
+          "kind": "build",
+          "isDefault": true,
+      },
+      "detail": "make-me => Makefile => g++"
+  }
+  ]
+}
